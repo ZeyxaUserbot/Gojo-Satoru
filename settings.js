@@ -19,9 +19,9 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['+6285778967640']
-global.premium = ['+6285778967640']
-global.ownernomer = '+6285778967640'
+global.owner = ['6285778967640']
+global.premium = ['6285778967640']
+global.ownernomer = '6285778967640'
 global.ownername = 'Chia Zeyxa'
 global.botname = 'Chia Zeyxa'
 global.footer = '©Chia.'
